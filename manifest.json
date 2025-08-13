@@ -1,0 +1,22 @@
+{
+  "name": "Casa Domotica",
+  "short_name": "Domotica",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#0f172a",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIuMDEgMTAuNDVhMi41IDIuNSAwIDAgMCAwIDQuOTh2Mi42M0gxMi4wMXYtMi42M2EyLjUgMi41IDAgMCAwIDAgLTQuOThaTTExLjk5IDEuNUEyLjUgMi41IDAgMCAwIDEwLjUgM2gyLjk5YTIuNSAyLjUgMCAwIDAtMS41LTIuNVoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTEyIDE5LjVsMi4xNS0yLjE1SDE4djMuNjVoLTMuODVMMTIgMTkuNVoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTEyIDQuNWgtMi4xNXYzLjY1SDYuMXYtMy42NUg0LjVsMi4xNSAyLjE1SDEydi0zLjY1WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTcuNSAxMkgxNC44NWwyLjE1IDIuMTV2My42NWgxLjV2LTMuNjVIMjAuM0wxNy41IDEyWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=",
+      "sizes": "24x24",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
